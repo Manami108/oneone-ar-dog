@@ -62,6 +62,7 @@ Key difficulties during development included:
 - Time constraints that prevented completion of object-based interactions.
 These challenges led to deeper learning in Unity development, AR systems, and collaborative teamwork.
 <br>
+
 ## Future Improvements
 Planned enhancements include:
 - More reliable animation triggers.

@@ -73,3 +73,7 @@ Planned enhancements include:
 - Object recognition features that influence the dog’s actions.
 - Interactions with real dogs or other users who are also using the app outdoors.
 
+<br>
+For more detailed explanations, diagrams, and development notes, please refer to the full project poster:
+Poster PDF: [One One Project Poster (PDF)](https://github.com/yourusername/yourrepository/POSTER_LINK_HERE)
+

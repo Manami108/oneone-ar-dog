@@ -75,5 +75,5 @@ Planned enhancements include:
 
 <br>
 For more detailed explanations, diagrams, and development notes, please refer to the full project poster:
-Poster PDF: [One One Project Poster (PDF)](https://github.com/yourusername/yourrepository/POSTER_LINK_HERE)
+Poster PDF: [One One Project Poster (PDF)]([https://github.com/yourusername/yourrepository/POSTER_LINK_HERE](https://github.com/Manami108/oneone-ar-dog/blob/main/Oneone-poster.pdf))
 

@@ -43,6 +43,7 @@ One One is an augmented reality (AR) mobile application designed to support user
 - Experimented with object scanning for future interaction features.
 
 <br>
+
 ## Results
 The final application includes:
 - A functioning AR dog with multiple animations.
